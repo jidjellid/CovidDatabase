@@ -1,0 +1,9 @@
+delivery.csv                 : https://www.ecdc.europa.eu/en/covid-19/vaccine-roll-out-overview
+Pollution_per_day.csv        : https://www.icos-cp.eu/gcp-covid19
+Pollution_total.csv          : https://www.icos-cp.eu/gcp-covid19
+flightlist.csv               : https://opensky-network.org/community/blog/item/6-opensky-covid-19-flight-dataset
+airports.csv                 : https://opensky-network.org/community/blog/item/6-opensky-covid-19-flight-dataset
+GDP Growth.csv               : https://stats.oecd.org/index.aspx?queryid=350
+owid-covid-data.cvs          : https://github.com/owid/covid-19-data/tree/master/public/data
+countries.csv                : https://www.kaggle.com/tanuprabhu/population-by-country-2020
+share-population-females.csv : https://ourworldindata.org/gender-ratio

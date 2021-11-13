@@ -1,0 +1,8 @@
+# Processed files
+*-pro.csv
+*_pro.csv
+*img.png
+
+# IDE
+.vscode
+.idea
